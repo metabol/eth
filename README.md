@@ -21,6 +21,10 @@ Useful links  for ethereum
 -- What is ethereum?
 http://ethdocs.org/en/latest/index.html
 
+
+GETH WIKI
+https://github.com/ethereum/go-ethereum/wiki
+
 -- What are smartcontracts?
 https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
 
@@ -34,16 +38,34 @@ https://nuclux.io/multimedia.html
 -- See some ethereum statistics
 https://ethstats.net/
 >>>>>>> f4bc4c47f66d9a8aafbf009d4afcb1003e3000f8
-1)Setting up private network or local cluster
+--------- Setting up private network or local cluster -------------------------------
 https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster
 
 
--- Setting up private network or local cluster
-https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local-cluster
 
--- Peer to Peer
+-- Peer to Peer -----------------------------------------------------------
 https://github.com/ethereum/go-ethereum/wiki/Peer-to-Peer
 
 
--- Developers' guide
+-- Developers' guide ----------------------------------------------
 https://ethereum.gitbooks.io/frontier-guide/content/developers.html
+
+
+--GETH Management APIs --------------------------------------
+https://github.com/ethereum/go-ethereum/wiki/Management-APIs
+
+
+
+JSON RPC -----------------------------------------
+https://github.com/ethereum/wiki/wiki/JSON-RPC
+
+
+
+JavaScript API ----------------------------------------
+https://github.com/ethereum/wiki/wiki/JavaScript-API
+
+WEB3.PY ---------------------------------
+https://github.com/ethereum/web3.py
+http://web3py.readthedocs.io/en/stable/internals.html
+
+
